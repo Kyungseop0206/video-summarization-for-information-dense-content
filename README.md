@@ -51,7 +51,7 @@ I was mainly in the visual team, but our work extended beyond keyframe extractio
 - Established the reasoning behind combining audio and visual information for accurate summarization.
 
 ### 2. Designing the Multimodal Pipeline
-- Pipeline Flow Design: Keyframe extraction & Audio transcriptioi -> topic segmentation -> LLM summarization
+- Pipeline Flow Design: Keyframe extraction & Audio transcription -> topic segmentation -> LLM summarization
 - Worked with the audio team to align segmentation with visual context
 - Collaborated with the LLM team to design how keyframes would be incorporated into prompts.
 
